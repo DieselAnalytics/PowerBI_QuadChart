@@ -1,1 +1,1 @@
-# Custom QuadChart Visual in Power BI using ggplot2
+# Custom Quad Chart Visual in Power BI using ggplot2
