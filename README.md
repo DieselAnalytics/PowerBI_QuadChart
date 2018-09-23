@@ -6,10 +6,10 @@ A complete coverage of the code is contained in the Create_Custom_Visualizations
 
 Resources:
 
-- http://r4ds.had.co.nz/: I believe this book is the best introduction to the R programming language.
+- [R for Data Science](http://r4ds.had.co.nz/): I believe this book is the best introduction to the R programming language.
 
-- https://guyinacube.com/: Great YouTube for all things Power BI. Patrick and Adam does a group job of keeping you informed with what's new in Power BI and they also provide great tutorials on how to use the tool.
+- [Guy in a Cube](https://guyinacube.com/): Great YouTube for all things Power BI. Patrick and Adam does a group job of keeping you informed with what's new in Power BI and they also provide great tutorials on how to use the tool.
 
-- https://www.youtube.com/channel/UCZgOVykPoRbSZQfY9YysiRQ:  Oz does a great job creating a tutorials on how to use Power Query for data munging.
+- [Excel on Fire](https://www.youtube.com/channel/UCZgOVykPoRbSZQfY9YysiRQ):  Oz does a great job creating a tutorials on how to use Power Query for data munging.
 
-- http://bibrainz.com/aof/author/micoyuk/: Mico Yuk provides great training on how to effectively use data visualization to tell amazing stories about your data.
+- [Mico Yuk](http://bibrainz.com/aof/author/micoyuk/): Mico Yuk provides great training on how to effectively use data visualization to tell amazing stories about your data.
