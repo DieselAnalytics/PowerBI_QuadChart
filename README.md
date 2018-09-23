@@ -2,7 +2,7 @@
 
 Power BI enables you to create custom visualizations using R. In this repo I demostrate how you can use the R programming language to create a quad chart in Power BI. The data used in the demo is NFL combine data. I use filters in Power BI to select the year and position that I want to based the quad chart on and R to create the visualization.
 
-A complete coverage of the code is contained in the Create_Custom_Visualizations_in_PowerBI_with_ggplot2 Jupyter Notebook. PBI_QuadChart is the pbix file that contains the Power BI example.
+A complete coverage of the code is contained in the ***Create_Custom_Visualizations_in_PowerBI_with_ggplot2*** Jupyter Notebook. PBI_QuadChart is the pbix file that contains the Power BI example.
 
 Resources:
 
