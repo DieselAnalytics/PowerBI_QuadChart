@@ -13,3 +13,5 @@ Resources:
 - [Excel on Fire](https://www.youtube.com/channel/UCZgOVykPoRbSZQfY9YysiRQ):  Oz does a great job creating a tutorials on how to use Power Query for data munging.
 
 - [Mico Yuk](http://bibrainz.com/aof/author/micoyuk/): Mico Yuk provides great training on how to effectively use data visualization to tell amazing stories about your data.
+
+In addition to the resources above I plan to add content covering how you can leverage R in Power BI as well as in the rest of the Microsoft ecosystem in my [blog](https://dieselanalytics.com/). Be on the look out!
